@@ -1,0 +1,31 @@
+section {
+  width: 80%;
+  font-family: sans-serif;
+}
+
+header {
+  width: 90%;
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  margin-left: 20%;
+  text-align: center;
+  padding: 20px;
+  font-size: 25px;
+  border-radius: 4px;
+  font-weight: 800;
+}
+
+ul {
+  width: 92%;
+  margin-left: 20%;
+}
+
+li {
+  width: 100%;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.50;
+  padding: 10px;
+  border-top: 1px solid lightgrey;
+}
